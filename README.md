@@ -31,7 +31,7 @@ Each math training session consists of 15 questions of varying difficulties. You
 
 # Video Demo
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/Rq5w0Amwz9Y/default.jpg?sqp=CMTa58EF&rs=AOn4CLD0ztkXMv0qufWSmUedZXtRfqQ3mQ)](https://www.youtube.com/watch?v=Rq5w0Amwz9Y)
+[![Alexa Skill lightning math demo](https://i.ytimg.com/vi/Rq5w0Amwz9Y/default.jpg?sqp=CMTa58EF&rs=AOn4CLD0ztkXMv0qufWSmUedZXtRfqQ3mQ)](https://www.youtube.com/watch?v=ymSAEEHvfhQ)
 
 # Notes
 

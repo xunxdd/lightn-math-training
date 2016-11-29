@@ -1,0 +1,18 @@
+{
+  "name": "lightning-math-training",
+  "version": "1.0.0",
+  "description": "A lightning Math Training",
+  "main": "index.js",
+  "author": "xunding",
+  "license": "ISC",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "alexa": {
+    "applicationId":""
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0"
+  }
+}
